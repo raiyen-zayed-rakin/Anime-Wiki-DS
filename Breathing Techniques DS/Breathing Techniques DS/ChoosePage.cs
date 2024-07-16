@@ -10,11 +10,18 @@ using System.Windows.Forms;
 
 namespace Breathing_Techniques_DS
 {
-    public partial class Form1 : Form
+    public partial class ChoosePage : Form
     {
-        public Form1()
+        public ChoosePage()
         {
             InitializeComponent();
+        }
+
+        private void btnBack_Click(object sender, EventArgs e)
+        {
+            StartPage s = new StartPage();
+            s.Visible = true;
+            this.Visible = false;
         }
     }
 }

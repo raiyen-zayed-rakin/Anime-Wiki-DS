@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breathing Techniques DS", "Breathing Techniques DS\Breathing Techniques DS.csproj", "{74B7640C-0FC3-4504-B1BD-7383703D719B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breathing Techniques DS", "Breathing Techniques DS\Breathing Techniques DS.csproj", "{881FB8A4-CD41-4C63-AD32-47953D23343B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{74B7640C-0FC3-4504-B1BD-7383703D719B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{74B7640C-0FC3-4504-B1BD-7383703D719B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{74B7640C-0FC3-4504-B1BD-7383703D719B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{74B7640C-0FC3-4504-B1BD-7383703D719B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881FB8A4-CD41-4C63-AD32-47953D23343B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881FB8A4-CD41-4C63-AD32-47953D23343B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881FB8A4-CD41-4C63-AD32-47953D23343B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881FB8A4-CD41-4C63-AD32-47953D23343B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FCA17225-9507-4BD9-87F7-50DE0D0D7296}
+		SolutionGuid = {829C2081-2581-402A-975F-AFC19BDA4092}
 	EndGlobalSection
 EndGlobal
