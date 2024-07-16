@@ -31,8 +31,14 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ChoosePage));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnBack = new System.Windows.Forms.PictureBox();
+            this.picBT = new System.Windows.Forms.PictureBox();
+            this.btnEnterBT = new System.Windows.Forms.Button();
+            this.picBTU = new System.Windows.Forms.PictureBox();
+            this.btnEnterBTU = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnBack)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBT)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBTU)).BeginInit();
             this.SuspendLayout();
             // 
             // pictureBox1
@@ -56,11 +62,61 @@
             this.btnBack.TabStop = false;
             this.btnBack.Click += new System.EventHandler(this.btnBack_Click);
             // 
+            // picBT
+            // 
+            this.picBT.Image = ((System.Drawing.Image)(resources.GetObject("picBT.Image")));
+            this.picBT.Location = new System.Drawing.Point(165, 181);
+            this.picBT.Name = "picBT";
+            this.picBT.Size = new System.Drawing.Size(317, 256);
+            this.picBT.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBT.TabIndex = 2;
+            this.picBT.TabStop = false;
+            // 
+            // btnEnterBT
+            // 
+            this.btnEnterBT.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(76)))), ((int)(((byte)(91)))), ((int)(((byte)(171)))));
+            this.btnEnterBT.Font = new System.Drawing.Font("MS Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEnterBT.ForeColor = System.Drawing.Color.Transparent;
+            this.btnEnterBT.Location = new System.Drawing.Point(165, 462);
+            this.btnEnterBT.Name = "btnEnterBT";
+            this.btnEnterBT.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.btnEnterBT.Size = new System.Drawing.Size(317, 64);
+            this.btnEnterBT.TabIndex = 3;
+            this.btnEnterBT.Text = "ENTER";
+            this.btnEnterBT.UseVisualStyleBackColor = false;
+            // 
+            // picBTU
+            // 
+            this.picBTU.Image = ((System.Drawing.Image)(resources.GetObject("picBTU.Image")));
+            this.picBTU.Location = new System.Drawing.Point(706, 181);
+            this.picBTU.Name = "picBTU";
+            this.picBTU.Size = new System.Drawing.Size(319, 256);
+            this.picBTU.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picBTU.TabIndex = 4;
+            this.picBTU.TabStop = false;
+            // 
+            // btnEnterBTU
+            // 
+            this.btnEnterBTU.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(76)))), ((int)(((byte)(91)))), ((int)(((byte)(171)))));
+            this.btnEnterBTU.Font = new System.Drawing.Font("MS Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEnterBTU.ForeColor = System.Drawing.Color.Transparent;
+            this.btnEnterBTU.Location = new System.Drawing.Point(706, 462);
+            this.btnEnterBTU.Name = "btnEnterBTU";
+            this.btnEnterBTU.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.btnEnterBTU.Size = new System.Drawing.Size(317, 64);
+            this.btnEnterBTU.TabIndex = 5;
+            this.btnEnterBTU.Text = "ENTER";
+            this.btnEnterBTU.UseVisualStyleBackColor = false;
+            // 
             // ChoosePage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1182, 703);
+            this.Controls.Add(this.btnEnterBTU);
+            this.Controls.Add(this.picBTU);
+            this.Controls.Add(this.btnEnterBT);
+            this.Controls.Add(this.picBT);
             this.Controls.Add(this.btnBack);
             this.Controls.Add(this.pictureBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
@@ -69,6 +125,8 @@
             this.Text = "BTDS";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.btnBack)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBT)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.picBTU)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -77,5 +135,9 @@
 
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox btnBack;
+        private System.Windows.Forms.PictureBox picBT;
+        private System.Windows.Forms.Button btnEnterBT;
+        private System.Windows.Forms.PictureBox picBTU;
+        private System.Windows.Forms.Button btnEnterBTU;
     }
 }
