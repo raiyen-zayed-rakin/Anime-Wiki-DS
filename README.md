@@ -4,16 +4,32 @@ A basic Windows Form Application showing different details and information about
 <br><br>
 ## Start Page
 <img src = "Readme_Resource/Screenshot 2024-07-18 010432.png">
-<br><br>
+<br>
 
 ## Chooing Page
 <img src = "Readme_Resource/Screenshot 2024-07-18 052330.png">
-<br><br>
+<br>
 
 ## Main and Major Characters
 <img src = "Readme_Resource/Screenshot 2024-07-18 052341.png">
-<br><br>
+<br>
 
 ## Demons
 <img src = "Readme_Resource/Screenshot 2024-07-18 052353.png">
+<br>
+
+# Getting Started
+
+1. Clone the repository:
+
+   ```
+   https://github.com/raiyen-zayed-rakin/Anime-Wiki-DS.git
+   ```
+
+2. Build and Run:
+   - Open the project in Visual Studio.
+   - Download required packages suggested.
+   - Build the solution.
+   - Run the project.
+
 
