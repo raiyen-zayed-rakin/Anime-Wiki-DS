@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Breathing_Techniques_DS.Properties
+namespace Demon_Slayer_WIKI.Properties
 {
 
 

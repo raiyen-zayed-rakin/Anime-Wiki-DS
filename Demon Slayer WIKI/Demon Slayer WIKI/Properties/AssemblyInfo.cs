@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Breathing Techniques DS")]
+[assembly: AssemblyTitle("Demon Slayer WIKI")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Breathing Techniques DS")]
+[assembly: AssemblyProduct("Demon Slayer WIKI")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("881fb8a4-cd41-4c63-ad32-47953d23343b")]
+[assembly: Guid("cf15ec86-237e-48f0-ba6e-825624efebd4")]
 
 // Version information for an assembly consists of the following four values:
 //

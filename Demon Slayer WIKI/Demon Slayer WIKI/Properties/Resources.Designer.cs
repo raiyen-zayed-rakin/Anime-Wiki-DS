@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Breathing_Techniques_DS.Properties
+namespace Demon_Slayer_WIKI.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Breathing_Techniques_DS.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Breathing_Techniques_DS.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Demon_Slayer_WIKI.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
