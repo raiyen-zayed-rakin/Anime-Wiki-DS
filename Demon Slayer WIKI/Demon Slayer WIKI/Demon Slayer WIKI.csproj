@@ -46,6 +46,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\BreathingTechniquesPage5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\BreathingTechniquesPage5.Designer.cs">
+      <DependentUpon>BreathingTechniquesPage5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DemonSlayersPage%28i%293.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\DemonSlayersPage%28i%293.Designer.cs">
+      <DependentUpon>DemonSlayersPage%28i%293.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DemonSlayersPage%28ii%294.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\DemonSlayersPage%28ii%294.Designer.cs">
+      <DependentUpon>DemonSlayersPage%28ii%294.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\DemonsPage6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pages\DemonsPage6.Designer.cs">
+      <DependentUpon>DemonsPage6.cs</DependentUpon>
+    </Compile>
     <Compile Include="Pages\OptionsPage2.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +84,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Pages\BreathingTechniquesPage5.resx">
+      <DependentUpon>BreathingTechniquesPage5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\DemonSlayersPage%28i%293.resx">
+      <DependentUpon>DemonSlayersPage%28i%293.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\DemonSlayersPage%28ii%294.resx">
+      <DependentUpon>DemonSlayersPage%28ii%294.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pages\DemonsPage6.resx">
+      <DependentUpon>DemonsPage6.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Pages\OptionsPage2.resx">
       <DependentUpon>OptionsPage2.cs</DependentUpon>
     </EmbeddedResource>
