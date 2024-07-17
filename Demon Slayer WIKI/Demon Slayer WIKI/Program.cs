@@ -1,4 +1,5 @@
 ﻿using System;
+using Demon_Slayer_WIKI.Pages;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -16,7 +17,7 @@ namespace Breathing_Techniques_DS
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new StartPage());
+            Application.Run(new StartPage1()) ;
         }
     }
 }
