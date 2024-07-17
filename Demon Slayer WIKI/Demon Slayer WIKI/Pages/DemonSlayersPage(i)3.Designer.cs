@@ -140,7 +140,7 @@
             this.label1.BackColor = System.Drawing.Color.Coral;
             this.label1.Font = new System.Drawing.Font("MS Gothic", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Transparent;
-            this.label1.Location = new System.Drawing.Point(59, 504);
+            this.label1.Location = new System.Drawing.Point(49, 504);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(195, 94);
             this.label1.TabIndex = 9;
@@ -164,7 +164,7 @@
             this.label3.BackColor = System.Drawing.Color.Goldenrod;
             this.label3.Font = new System.Drawing.Font("MS Gothic", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.Transparent;
-            this.label3.Location = new System.Drawing.Point(629, 504);
+            this.label3.Location = new System.Drawing.Point(627, 504);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(220, 94);
             this.label3.TabIndex = 11;
@@ -176,7 +176,7 @@
             this.label4.BackColor = System.Drawing.Color.Teal;
             this.label4.Font = new System.Drawing.Font("MS Gothic", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Transparent;
-            this.label4.Location = new System.Drawing.Point(903, 504);
+            this.label4.Location = new System.Drawing.Point(892, 504);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(245, 94);
             this.label4.TabIndex = 12;

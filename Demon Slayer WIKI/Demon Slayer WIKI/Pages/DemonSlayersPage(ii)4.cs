@@ -23,5 +23,10 @@ namespace Demon_Slayer_WIKI.Pages
             DemonSlayersPage_i_3 DemonSlayer = new DemonSlayersPage_i_3();
             DemonSlayer.Visible = true;
         }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
